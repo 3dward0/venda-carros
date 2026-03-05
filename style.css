@@ -44,18 +44,18 @@ h2{
     transform: scale(1.05);
 }
 
-.card-img img{
+.card img{
     width: 100%;
 }
 
-.card-img span{
+.card .card-img{
     position: relative;
-    bottom: 250px;
-    background-color: rgb(66, 32, 32);
-    padding: 5px 10px;
-    border-radius: 15px;
-    color: white;
-    font-weight: 600;
+    /* bottom: 250px; */
+    /* background-color: rgb(66, 32, 32); */
+    /* padding: 5px 10px; */
+    /* border-radius: 15px; */
+    /* color: white; */
+    /* font-weight: 600; */
 }
 
 .card .card-footer{
